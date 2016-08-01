@@ -1,0 +1,9 @@
+setup.py
+sgccRiskControl/DataProcess.py
+sgccRiskControl/__init__.py
+sgccRiskControl.egg-info/PKG-INFO
+sgccRiskControl.egg-info/SOURCES.txt
+sgccRiskControl.egg-info/dependency_links.txt
+sgccRiskControl.egg-info/not-zip-safe
+sgccRiskControl.egg-info/requires.txt
+sgccRiskControl.egg-info/top_level.txt

@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: sgccRiskControl
+Version: 0.1.2
+Summary: sgcc risk control data process
+Home-page: https://pypi.python.org/pypi
+Author: Wang Qi,Li Zhiyun
+Author-email: wangalexqi@126.com
+License: MIT
+Description: sgccRiskControl is package specific for risk control in state grid cooperation of China
+Keywords: sgcc,risk,control
+Platform: UNKNOWN
